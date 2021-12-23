@@ -30,5 +30,5 @@ elif simbol=='/':
 	print(f'hasilnya {perhitungan}')
 	
 #MR SMF
-
+#INSTAGRAM : smichael.id
 print('===========END================')
